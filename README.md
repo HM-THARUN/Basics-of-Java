@@ -58,14 +58,14 @@ lab4b Output Link - https://github.com/HM-THARUN/Basics-of-Java/blob/72c521154ce
 lab4c Output Link - https://github.com/HM-THARUN/Basics-of-Java/blob/ade18378e6830f62edfc713732f2140c19b0e7f3/lab4c.png
 
 
-lab4d Output Link - 
+lab5a Output Link - https://github.com/HM-THARUN/Basics-of-Java/blob/e81531f419c0aa9471958ae5ae2df7aaf6ba2936/lab5a.png
 
 
-lab5 Output Link 
+lab5b Output Link 
 
-lab4b Output Link 
+lab5c Output Link 
 
-lab4b Output Link 
+lab5d Output Link 
 
 lab4b Output Link 
 
