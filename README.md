@@ -75,7 +75,7 @@ lab6c Output Link - https://github.com/HM-THARUN/Basics-of-Java/blob/9fa7f4081e9
 
 lab7a Output Link - https://github.com/HM-THARUN/Basics-of-Java/blob/c6bb9c2958eb43580300c45622e7ed4d9e0402cf/7a.png
 
-lab7b Output Link 
+lab7b Output Link - https://github.com/HM-THARUN/Basics-of-Java/blob/40739af46654adb3277fe6fd18500b7b7d31a6a0/7b.png
 
 lab8a Output Link 
 
