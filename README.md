@@ -55,7 +55,7 @@ lab4a Output Link -  https://github.com/HM-THARUN/Basics-of-Java/blob/0be82e2712
 lab4b Output Link - https://github.com/HM-THARUN/Basics-of-Java/blob/72c521154cea694fbc39690bb910f9721b33d9b8/lab4b.png
 
 
-lab4c Output Link -
+lab4c Output Link - https://github.com/HM-THARUN/Basics-of-Java/blob/ade18378e6830f62edfc713732f2140c19b0e7f3/lab4c.png
 
 
 lab4d Output Link - 
