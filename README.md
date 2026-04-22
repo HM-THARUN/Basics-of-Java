@@ -24,7 +24,7 @@ p10 Output Link - https://github.com/HM-THARUN/Basics-of-Java/blob/caf2c9b8caef7
 lab2a Output Link - https://github.com/HM-THARUN/Basics-of-Java/blob/1b156d4a20d6d428c4e93493e65e2709b659e48d/lab2a.png
 
 
-p2 Output Link -
+lab2b Output Link - https://github.com/HM-THARUN/Basics-of-Java/blob/4c2d121e2eee3fe90e62bda901069ec7637ceed3/lab2b.png
 
 
 p2 Output Link -
