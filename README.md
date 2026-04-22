@@ -2,7 +2,7 @@ Lab1 example Output Link - https://github.com/HM-THARUN/Basics-of-Java/blob/c5b9
 
 p1 Output Link - https://github.com/HM-THARUN/Basics-of-Java/blob/6323416d2038605fe132dbc128a32f85e7dd2934/p1.png
 
-p2 Output Link -
+p2 Output Link - https://github.com/HM-THARUN/Basics-of-Java/blob/27f1ce23cc875904293d6c176f2761a82cff02cf/p2.png
 
 p3 Output Link -
 
