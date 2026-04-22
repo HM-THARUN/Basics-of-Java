@@ -50,7 +50,7 @@ lab3c9 Output Link - https://github.com/HM-THARUN/Basics-of-Java/blob/3454541490
 
 lab3c10 Output Link - https://github.com/HM-THARUN/Basics-of-Java/blob/96438a079b2360cb2201f9bc499fa7c0064b6211/lab3c10.png
 
-lab3b1 Output Link 
+lab4a Output Link - https://github.com/HM-THARUN/Basics-of-Java/blob/5c2d9c38208bf404e7ee2c1ea8a29e65502f2d74/lab4a.png
 
 lab3b1 Output Link 
 
