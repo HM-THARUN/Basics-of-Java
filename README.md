@@ -50,9 +50,49 @@ lab3c9 Output Link - https://github.com/HM-THARUN/Basics-of-Java/blob/3454541490
 
 lab3c10 Output Link - https://github.com/HM-THARUN/Basics-of-Java/blob/96438a079b2360cb2201f9bc499fa7c0064b6211/lab3c10.png
 
-lab4a Output Link - https://github.com/HM-THARUN/Basics-of-Java/blob/5c2d9c38208bf404e7ee2c1ea8a29e65502f2d74/lab4a.png
+lab5a Output Link - https://github.com/HM-THARUN/Basics-of-Java/blob/5c2d9c38208bf404e7ee2c1ea8a29e65502f2d74/lab4a.png
 
-lab4b Output Link - https://github.com/HM-THARUN/Basics-of-Java/blob/f835252ea6e1a77d847ede5df4e851be3d3d4abe/lab4b.png
+lab5b Output Link - https://github.com/HM-THARUN/Basics-of-Java/blob/f835252ea6e1a77d847ede5df4e851be3d3d4abe/lab4b.png
+
+lab5c Output Link -  
+
+lab5d Output Link 
+
+lab5 Output Link 
+
+lab4b Output Link 
+
+lab4b Output Link 
+
+lab4b Output Link 
+
+lab4b Output Link 
+
+lab4b Output Link 
+
+lab4b Output Link 
+
+lab4b Output Link 
+
+lab4b Output Link 
+
+lab4b Output Link 
+
+lab4b Output Link 
+
+lab4b Output Link 
+
+lab4b Output Link 
+
+lab4b Output Link 
+
+lab4b Output Link 
+
+lab4b Output Link 
+
+lab4b Output Link 
+
+
 
 
 
