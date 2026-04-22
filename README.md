@@ -21,7 +21,7 @@ p9 Output Link - https://github.com/HM-THARUN/Basics-of-Java/blob/9e1e834f585ed0
 p10 Output Link - https://github.com/HM-THARUN/Basics-of-Java/blob/caf2c9b8caef7d078ab0dcf92e53d76ff86f0ffe/p10.png
 
 
-p2 Output Link -
+lab2a Output Link - https://github.com/HM-THARUN/Basics-of-Java/blob/1b156d4a20d6d428c4e93493e65e2709b659e48d/lab2a.png
 
 
 p2 Output Link -
