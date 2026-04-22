@@ -10,7 +10,7 @@ p4 Output Link - https://github.com/HM-THARUN/Basics-of-Java/blob/990e62324163d3
 
 p5 Output Link - https://github.com/HM-THARUN/Basics-of-Java/blob/faa44fbb294d458b93cd19921472df75cbbcc6b1/p5.png
 
-p6 Output Link -
+p6 Output Link - https://github.com/HM-THARUN/Basics-of-Java/blob/2353bd93ebff089338915cdb41cad9c34a4bbd85/p6.png
 
 p7 Output Link -
 
